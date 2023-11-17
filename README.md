@@ -1,5 +1,4 @@
-
-<a href="https://ondrejfilip1.github.io/portfolio/" align="center">Visit my portfolio</a><br>
+<h1 align="center"><a href="https://ondrejfilip1.github.io/portfolio/">Visit my portfolio</a></h1><br>
 <h4>Best projects</h4>
 <a href="https://www.paintingsbytimlee.co.uk">● Paintings by Tim Lee</a><br>
 <a href="https://ondrejfilip1.github.io/Moderni-stanka-SPSMB">● School modern website project</a><br>
