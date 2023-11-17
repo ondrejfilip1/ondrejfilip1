@@ -1,4 +1,5 @@
-<p>I love making websites especially designing in CSS</p><br>
+
+<a href="https://ondrejfilip1.github.io/portfolio/" align="center">Visit my portfolio</a><br>
 <h4>Best projects</h4>
 <a href="https://www.paintingsbytimlee.co.uk">● Paintings by Tim Lee</a><br>
 <a href="https://ondrejfilip1.github.io/Moderni-stanka-SPSMB">● School modern website project</a><br>
