@@ -6,6 +6,8 @@
 <a href="https://ondrejfilip1.github.io/Moderni-stanka-SPSMB">● School modern website project</a><br>
 <a href="https://ondrejfilip1.github.io/clicker/">● Cookie clicker</a><br>
 <h4>I work with</h4>
-<div align="left">
-  [![Technologie](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,mongodb,tailwind&perline=4)](https://skillicons.dev)
+<div align="center">
+  
+ [![Technologie](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,mongodb,mysql,tailwind)](https://skillicons.dev)
+
 </div>
