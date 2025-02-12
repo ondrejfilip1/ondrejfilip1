@@ -7,6 +7,5 @@
 <a href="https://ondrejfilip1.github.io/clicker/">● Cookie clicker</a><br>
 <h4>I work with</h4>
 <div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,mysql,java)](https://skillicons.dev)
   [![Technologie](https://skillicons.dev/icons?i=react,js,html,css,express,nodejs,mongodb,tailwind&perline=4)](https://skillicons.dev)
 </div>
