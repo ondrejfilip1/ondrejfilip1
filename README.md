@@ -8,6 +8,6 @@
 <h4>I work with</h4>
 <div align="center">
   
- [![Technologie](https://skillicons.dev/icons?i=js,html,css,react,express,nodejs,mongodb,mysql,tailwind)](https://skillicons.dev)
+ [![Technologie](https://skillicons.dev/icons?i=js,html,css,tailwind,react,express,nodejs,mongodb,mysql,java)](https://skillicons.dev)
 
 </div>
