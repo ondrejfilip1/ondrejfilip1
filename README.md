@@ -12,7 +12,7 @@
 <h3 align="center">I work with</h3>
 <div align="center">
   
- <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,express,nodejs,mongodb,mysql,java"/>
+ <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,vite,express,nodejs,mongodb,mysql,java"/>
 
 </div>
 <h3 align="center">Tools I use</h3>
