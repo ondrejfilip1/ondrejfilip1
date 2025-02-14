@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://ondrejfilip1.github.io/portfolio/">Visit my portfolio</a></h1><br>
+<h1 align="center"><a href="https://ondrejfilip1.github.io/portfolio/">Visit my portfolio</a></h1>
 <h3 align="center">Best projects</h3>
 
 <ul>
