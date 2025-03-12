@@ -2,6 +2,7 @@
 <h3 align="center">Best projects</h3>
 
 <ul>
+<li><a href="https://github.com/ondrejfilip1/rocnikova-prace-e-shop">My first E-Shop project</a></li>
 <li><a href="https://www.paintingsbytimlee.co.uk">Paintings by Tim Lee</a></li>
 <li><a href="https://www.github.com/ondrejfilip1/obec-stranka">Modern website for Pilsen Region</a></li>
 <li><a href="https://ondrejfilip1.github.io/orbita-website">First three.js project</a></li>
