@@ -24,7 +24,7 @@
 <h3 align="center">Tools I use</h3>
 <div align="center">
   
- <img alt="tools" src="https://skillicons.dev/icons?i=vscode,github,git,postman,idea,figma"/>
+ <img alt="tools" src="https://skillicons.dev/icons?i=vscode,github,git,postman,idea,figma,windows,linux,arch"/>
 
 </div>
 
