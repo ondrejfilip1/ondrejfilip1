@@ -21,7 +21,7 @@
 </div>
 
 ---
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools I use</h3>
 <div align="center">
   
  <img alt="tools" src="https://skillicons.dev/icons?i=vscode,github,git,postman,idea,figma,windows,linux,arch"/>
@@ -33,6 +33,7 @@
 
 <div align="center">
   
-  <a href="mailto:ondrejfilipstranky@gmail.com"><img alt="email" src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="mailto:ondrejfilipstranky@gmail.com"><img alt="email" src="https://skillicons.dev/icons?i=gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ond%C5%99ej-filip-26518534b/"><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 </div>
