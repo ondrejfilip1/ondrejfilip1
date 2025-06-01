@@ -13,7 +13,7 @@
 </ul>
 
 ---
-<h3 align="center">I work with</h3>
+<h3 align="center">Experience</h3>
 <div align="center">
   
  <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,vite,express,nodejs,mongodb,mysql,java"/>
@@ -21,7 +21,7 @@
 </div>
 
 ---
-<h3 align="center">Tools I use</h3>
+<h3 align="center">Tools</h3>
 <div align="center">
   
  <img alt="tools" src="https://skillicons.dev/icons?i=vscode,github,git,postman,idea,figma,windows,linux,arch"/>
