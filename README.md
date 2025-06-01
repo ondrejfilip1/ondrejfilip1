@@ -29,3 +29,10 @@
 </div>
 
 ---
+<h3 align="center">Contacts</h3>
+
+<div align="center">
+  
+  <a href="mailto:ondrejfilipstranky@gmail.com"><img alt="email" src="https://skillicons.dev/icons?i=gmail"/></a>
+
+</div>
