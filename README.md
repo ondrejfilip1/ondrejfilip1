@@ -16,7 +16,7 @@
 <h3 align="center">Experience</h3>
 <div align="center">
   
- <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react,vite,express,nodejs,mongodb,mysql,java"/>
+ <img alt="skills" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/219cae5b6ae7315cae956b11e7d5b0330869b1f8/experience.svg"/>
 
 </div>
 
