@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://ondrejfilip1.github.io/portfolio/">Visit my portfolio</a></h1>
+<img width="100%" height="50" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/c8b6c8ea640654056c78e7e0bc150d0134f36381/waves_bottom.svg" />
 
 <h3 align="center">Best projects</h3>
 
@@ -37,3 +37,5 @@
   <a href="https://www.linkedin.com/in/ond%C5%99ej-filip-26518534b/"><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 </div>
+
+<img width="100%" height="50" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/d1fe914d9701736468ff278b1cdec40e3ad47d47/waves_bottom.svg" />
