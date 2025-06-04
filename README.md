@@ -38,4 +38,13 @@
 
 </div>
 
+---
+<h3 align="center">Github Stats</h3>
+
+<div align="center">
+
+ <img src="https://gh-readme-profile.vercel.app/api?username=ondrejfilip1&hide=stars,prs,prs_merged,issues&hide_stroke=true&hide_border=true&bg_color=3d444d&title_color=ffffff&text_color=e4e2e2&icon_color=a2baf2&username_color=e4e2e2" /><br />
+
+</div>
+
 <img width="100%" height="50" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/d1fe914d9701736468ff278b1cdec40e3ad47d47/waves_bottom.svg" />
