@@ -16,7 +16,7 @@
 <h3 align="center">Experience</h3>
 <div align="center">
   
- <img alt="skills" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/219cae5b6ae7315cae956b11e7d5b0330869b1f8/experience.svg"/>
+ <img alt="skills" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/579904e6112535226394eba12c36690570190149/experience.svg"/>
 
 </div>
 
