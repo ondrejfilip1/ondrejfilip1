@@ -4,11 +4,14 @@
 
 <ul>
 <li><a href="https://github.com/ondrejfilip1/rocnikova-prace-e-shop">My first E-Shop project</a></li>
-<li><a href="https://github.com/ondrejfilip1/skupinovy-projekt-2025">School group project</a></li>
+<li><a href="https://github.com/ondrejfilip1/password-manager">Password manager</a></li>
+<li><a href="https://github.com/ondrejfilip1/skupinovy-projekt-2025">Mini e-shop with an AI-powered story generator</a></li>
 <li><a href="https://www.paintingsbytimlee.co.uk">Paintings by Tim Lee</a></li>
 <li><a href="https://www.github.com/ondrejfilip1/obec-stranka">Modern website for Pilsen Region</a></li>
-<li><a href="https://ondrejfilip1.github.io/orbita-website">First three.js project</a></li>
+<li><a href="https://ondrejfilip1.github.io/orbita-website">My first three.js project</a></li>
+  <!--
 <li><a href="https://ondrejfilip1.github.io/Moderni-stanka-SPSMB">School modern website project</a></li>
+  !-->
 <li><a href="https://ondrejfilip1.github.io/clicker/">Cookie clicker</a></li>
 </ul>
 
