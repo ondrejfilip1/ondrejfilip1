@@ -1,5 +1,7 @@
 <img width="100%" height="50" src="https://raw.githubusercontent.com/ondrejfilip1/ondrejfilip1/c8b6c8ea640654056c78e7e0bc150d0134f36381/waves_bottom.svg" />
 
+<h3 align="center"><a href="https://github.com/ondrejfilip1/portfolio">Portfolio (WIP)</a></h3>
+
 <h3 align="center">Best projects</h3>
 
 <ul>
